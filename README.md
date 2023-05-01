@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on multi-modal machine learning and dimensionality reduction.
 - 🌱 I’m currently learning mathematics behind dimensionality reduction and stable diffusion from scratch.
-- 👯 I’m looking to collaborate on model distillation and LLM training.
+- 👯 I’m looking to collaborate on Reinforcement Learning, Adversarial Machine Learning and Explainable AI.
 - 🤔 I’m looking for help with (you guessed it) model distillation and LLM training.
 - 💬 Ask me about natural language processing, image generation and anything data science related.
 - 📫 How to reach me: <details coming>
-- ⚡ Opinion: I am actually concerned about superintelligence through AGI, and believe we should build in safe guards.
+- ⚡ Opinion: I am both fascinated and concerned about superintelligence, and believe we should understand and deploy safe AI agents.
