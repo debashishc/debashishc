@@ -10,6 +10,6 @@
 - 🌱 I’m learning GPU programming, focusing on CUDA and Triton for efficient machine learning implementations.
 - 👯 I’m seeking collaborators in Efficient Machine Learning, Reinforcement Learning (once I dive deeper into it), Adversarial Machine Learning, and Explainable AI.
 - 🤔 I’m open to help with model distillation, quantization and efficient LLM training.
-- 💬 Feel free to ask me about natural language processing, image generation, or anything related to machine learning.
+- 💬 Feel free to ask me about natural language processing, image generation, quantization or anything related to machine learning deployment.
 - 📫 How to reach me: <details coming soon>
 - ⚡ Opinion: I’m both fascinated and cautious about superintelligence. I believe it’s crucial to focus on building and deploying safe AI agents while ensuring AI democratization.
