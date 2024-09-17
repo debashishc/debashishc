@@ -12,7 +12,7 @@
 
 - ## 👨‍💻 Research Interests
 
-- Developing and optimizing **multi-modal model architectures** with scalable data input processing to enhance performance in distributed environments.
-- Streamlining model training, fine-tuning, and inference processes for seamless integration with **cloud** and **edge computing** interfaces.
-- Implementing **hardware- and IO-aware ML model compression techniques** to optimize inference efficiency and reduce computational overhead.
+  - Developing and optimizing **multi-modal model architectures** with scalable data input processing to enhance performance in distributed environments.
+  - Streamlining model training, fine-tuning, and inference processes for seamless integration with **cloud** and **edge computing** interfaces.
+  - Implementing **hardware- and IO-aware ML model compression techniques** to optimize inference efficiency and reduce computational overhead.
 
