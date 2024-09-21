@@ -16,3 +16,18 @@
   - Streamlining model training, fine-tuning, and inference processes for seamless integration with **cloud** and **edge computing** interfaces.
   - Implementing **hardware- and IO-aware ML model compression techniques** to optimize inference efficiency and reduce computational overhead.
 
+<a href="https://github.com/debashishc/github-stats">
+<img src="https://raw.githubusercontent.com/debashishc/gh-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/debashishc/gh-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+<!-- ![](https://raw.githubusercontent.com/debashishc/gh-stats/master/generated/overview.svg#gh-dark-mode-only) -->
+<!-- ![](https://raw.githubusercontent.com/debashishc/gh-stats/master/generated/languages.svg#gh-dark-mode-only) -->
+  
+<!--
+![](https://raw.githubusercontent.com/debashishc/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+-->
