@@ -19,8 +19,7 @@ I'm a Machine Learning Researcher at Johns Hopkins University passionate about m
 ## 🛠️ Tech Stack
 **Languages & Frameworks**
 - Python | C++ | CUDA
-- PyTorch
-- Triton | ONNX | TensorRT
+- PyTorch | Triton
 
 **Specializations**
 - Model Compression (Quantization, Pruning, Knowledge Distillation)
