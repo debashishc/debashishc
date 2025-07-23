@@ -8,7 +8,7 @@
 [![@debashishc's Holopin board](https://holopin.me/debashishc)](https://holopin.io/@debashishc)
 -->
 
-I'm a Machine Learning Researcher at Johns Hopkins University passionate about making AI more efficient and accessible through model optimization and multi-modal learning.
+I'm a Machine Learning Research Fellow at Johns Hopkins University making computer learn all different kinds of modes.
 
 ## 🔬 Current Focus
 - **Multi-Modal ML**: Building systems that understand text, video, and beyond
