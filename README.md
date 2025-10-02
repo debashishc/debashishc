@@ -34,7 +34,6 @@ My main research interest in Hardware aware training and optimization of multi-m
 - *Hardware-Aware Optimization*: Implementing compression techniques that leverage specific hardware capabilities for maximum inference efficiency
 
 
-### Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
