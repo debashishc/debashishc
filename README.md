@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <!--
@@ -8,36 +8,31 @@
 [![@debashishc's Holopin board](https://holopin.me/debashishc)](https://holopin.io/@debashishc)
 -->
 
-I'm a Machine Learning Research Fellow at Johns Hopkins University making computer learn all different kinds of modes.
+I'm a Machine Learning Research Staff at JHU making computers learn all different kinds of modes.
 
-## 🔬 Current Focus
-- **Multi-Modal ML**: Building systems that understand text, video, and beyond
-- **Model Efficiency**: Compression, quantization, and distillation techniques for production-ready AI
-- **RAG Systems**: Advancing Retrieval Augmented Generation for textual and video domains at JHU
-- **GPU Programming**: Leveraging CUDA and Triton for high-performance ML implementations (spare time)
+Working on
+- *Multi-Modal ML*: Building systems that understand text, video, and beyond
+- *Model Efficiency*: Compression, quantization, and distillation techniques for production-ready AI
+- *RAG Systems*: Advancing Retrieval Augmented Generation for textual and video domains at JHU
+- *GPU Programming*: Leveraging CUDA and Triton for high-performance ML implementations (spare time)
 
-## 🛠️ Tech Stack
-**Languages & Frameworks**
+I mostly write in
 - Python | C++ | CUDA
 - PyTorch | Triton
 
-**Specializations**
+I also have experience in Haskell and Java and  but don't really work on them anymore.
+
+Specializations
 - Model Compression (Quantization, Pruning, Knowledge Distillation)
 - Distributed Training & Inference
 - Edge Deployment Optimization
 - Multi-Modal Architecture Design
 
-## 🎯 Research Interests
-- **Scalable Multi-Modal Architectures**: Developing models that efficiently process diverse data types in distributed environments
-- **Cloud-to-Edge ML Pipeline**: Streamlining the entire ML lifecycle from training to deployment across cloud and edge devices
-- **Hardware-Aware Optimization**: Implementing compression techniques that leverage specific hardware capabilities for maximum inference efficiency
+My main research interest in Hardware aware training and optimization of multi-modal machine learning, but general interest lies in
+- *Scalable Multi-Modal Architectures*: Developing models that efficiently process diverse data types in distributed environments
+- *Cloud-to-Edge ML Pipeline*: Streamlining the entire ML lifecycle from training to deployment across cloud and edge devices
+- *Hardware-Aware Optimization*: Implementing compression techniques that leverage specific hardware capabilities for maximum inference efficiency
 
-
-## 🤝 Open to Collaborate On
-- Model distillation and quantization projects
-- Efficient training strategies for large-scale models
-- Multi-modal ML applications
-- Edge deployment optimization
 
 ### Languages and Tools
 <p align="left">
