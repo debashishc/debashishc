@@ -12,15 +12,15 @@ I'm a Machine Learning Research Staff at JHU making computers learn all differen
 
 Working on
 - *Multi-Modal ML*: Building systems that understand text, video, and beyond
-- *Model Efficiency*: Compression, quantization, and distillation techniques for production-ready AI
+- *ML System Efficiency*: Compression, quantization, and distillation techniques
 - *RAG Systems*: Advancing Retrieval Augmented Generation for textual and video domains at JHU
-- *GPU Programming*: Leveraging CUDA and Triton for high-performance ML implementations (spare time)
+- *GPU Programming*: Leveraging CUDA and Triton for high-performance ML implementations 
 
 I mostly write in
 - Python | C++ | CUDA
 - PyTorch | Triton
 
-I also have experience in Haskell and Java and  but don't really work on them anymore.
+I also have experience in Haskell and Java but don't really work with them anymore.
 
 Specializations
 - Model Compression (Quantization, Pruning, Knowledge Distillation)
