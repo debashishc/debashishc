@@ -8,7 +8,7 @@
 [![@debashishc's Holopin board](https://holopin.me/debashishc)](https://holopin.io/@debashishc)
 -->
 
-I'm a Machine Learning Research Staff at JHU making computers learn all different kinds of modes.
+I'm a Machine Learning Research Staff visiting JHU making computers learn all different kinds of modes.
 
 Working on
 - *Multi-Modal ML*: Building systems that understand text, video, and beyond
