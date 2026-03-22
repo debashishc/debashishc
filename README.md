@@ -17,10 +17,14 @@ Working on
 - *GPU Programming*: Leveraging CUDA and Triton for high-performance ML implementations 
 
 I mostly write in
-- Python | C++ | CUDA
-- PyTorch | Triton
+- CuteDSL (2025-)
+- CUDA (2024-)
+- Triton (2024-)
+- PyTorch (2015-)
+- Python (2014-)
+- C++ (2012-)
 
-I also have experience in Haskell and Java but don't really work with them anymore.
+I also have experience in Haskell (2009-2019) and Java (2014-2017) but don't really work with them anymore.
 
 Specializations
 - Model Compression (Quantization, Pruning, Knowledge Distillation)
