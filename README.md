@@ -14,7 +14,7 @@ Working on
 - *Multi-Modal ML*: Building systems that understand text, video, and beyond
 - *ML System Efficiency*: Compression, quantization, and distillation techniques
 - *RAG Systems*: Advancing Retrieval Augmented Generation for textual and video domains at JHU
-- *GPU Programming*: Leveraging CUDA and Triton for high-performance ML implementations 
+- *GPU Programming*: Leveraging CuteDSL, CUDA and Triton for high-performance ML implementations 
 
 I mostly write in
 - CuteDSL (2025-)
